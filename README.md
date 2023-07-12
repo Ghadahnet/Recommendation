@@ -1,1 +1,1 @@
-# Recommendation
+We have a dataset that includes information about book ratings by users. By using a collaborative filtering model, we were able to develop a book recommendation system with high accuracy. The model uses the ratings provided by users to suggest books that they might like.
